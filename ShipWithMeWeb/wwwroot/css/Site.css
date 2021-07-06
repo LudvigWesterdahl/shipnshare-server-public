@@ -1,0 +1,86 @@
+﻿.big-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 40px;
+    color: #212121;
+    margin: 16px;
+}
+
+.medium-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 30px;
+    color: #212121;
+    margin: 16px;
+}
+
+.small-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    color: #212121;
+    margin: 16px;
+}
+
+.text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 12px;
+    color: #212121;
+    margin: 16px;
+}
+
+.input-field {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 0.05em;
+    width: 400px;
+    height: 32px;
+    display: block;
+    padding: 8px;
+    margin: 16px;
+    background: #E8F5E9;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #212121;
+}
+
+.input-button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #FFFFFF;
+    display: block;
+    padding: 8px;
+    margin: 16px;
+    width: 416px;
+    height: 40px;
+    border: 0px;
+}
+
+.error-item {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    color: #D32F2F;
+}
+
+.enabled-button {
+    cursor: pointer;
+    background: #4CAF50;
+}
+
+.disabled-button {
+    cursor: default;
+    background: #9E9E9E;
+}
+
+.input-button.enabled-button:hover {
+    background: #43A047
+}

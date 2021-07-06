@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Interactors\" />
+    <Folder Include="UseCases\" />
+    <Folder Include="Entities\" />
+    <Folder Include="DataTransferObjects\" />
+    <Folder Include="Repositories\" />
+    <Folder Include="ExternalServices\" />
+    <Folder Include="SharedKernel\" />
+  </ItemGroup> 
+</Project>
